@@ -4,7 +4,7 @@
 SpendWise is an AI-powered personal finance and expense intelligence platform that automatically imports, categorizes, and analyzes financial transactions to help users understand their spending, plan their budgets, and make smarter financial decisions.
 
 ## Live Prototype
-[View the SpendWise Live Prototype](https://aistudio.google.com/apps/990b7406-d802-4b10-9323-5c4b884b76c9?showPreview=true&showAssistant=true&project=gen-lang-client-0595929875&fullscreenApplet=true))
+[View the SpendWise Live Prototype ](https://aistudio.google.com/apps/990b7406-d802-4b10-9323-5c4b884b76c9?showPreview=true&showAssistant=true&project=gen-lang-client-0595929875&fullscreenApplet=true))
 
 > This prototype demonstrates the SpendWise user experience, including the landing page, authentication flow, dashboard, smart transaction import, analytics, budgeting, and AI-powered financial insights.
 
