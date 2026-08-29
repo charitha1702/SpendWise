@@ -7,7 +7,7 @@ Instead of manually entering every transaction, users can import transaction sta
 
 > **SpendWise turns financial data into financial clarity.**
 ---
-## ✨ Why SpendWise?
+## Why SpendWise?
 
 Traditional expense trackers require users to manually record every transaction.
 That quickly becomes tedious.
