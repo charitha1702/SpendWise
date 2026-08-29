@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise",
+  "description": "Smart Personal Finance & Expense Intelligence App with statement import, AI money copilot, budgeting, and balance forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
